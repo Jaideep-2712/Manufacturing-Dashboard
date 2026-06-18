@@ -6,6 +6,18 @@ This repository contains a comprehensive Power BI dashboard designed to monitor 
 
 ### 🖼️ Dashboard Preview
 
+#### 📈 Overview
+<img src="Manufacturing Dashboard_OverviewPg.PNG" width="100%">
+
+#### ✅ Quality Management
+<img src="Manufacturing Dashboard_QualityManagementPg.PNG" width="100%">
+
+#### ⚙️ Machine Utilization
+<img src="Manufacturing Dashboard_MachineUtilizationPg.PNG" width="100%">
+
+#### 📋 Detailed Analysis
+<img src="Manufacturing Dashboard_DetailedPagePg.PNG" width="100%">
+
 ---
 
 ### 🎥 Dashboard Demo
