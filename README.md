@@ -6,7 +6,11 @@ This repository contains a comprehensive Power BI dashboard designed to monitor 
 
 ### 🖼️ Dashboard Preview
 
-![Manufacturing Performance Dashboard](demo/dashboard-demo.gif)
+---
+
+### 🎥 Dashboard Demo
+
+[▶️Click & Watch Dashboard Demo](https://raw.githubusercontent.com/Jaideep-2712/Manufacturing-Dashboard/main/Manufacturing_Dashboard_Preview.mp4)
 
 ---
 
